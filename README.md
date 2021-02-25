@@ -10,4 +10,4 @@ Lenguajes de programacion:
 - PHP
 - JavaScript
 
-Me gusta manipular dispositivos electronicos, saber como funcionan, programarlos, armar y desarmar
+Me gusta manipular dispositivos electronicos, saber como funcionan, programarlos, armar y desarmar computadoras
